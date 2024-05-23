@@ -26,7 +26,8 @@ Ce projet met en œuvre une application web de magasin en ligne utilisant Next.j
 - NextJS
 - TailwindCSS
 - axios
-- FakeStore API 
+- FakeStore API
+- TypeScript
   
 **Prerequisites**
 
