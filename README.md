@@ -48,7 +48,7 @@ cd Aora-Nextjs
 Install the project dependencies using npm:
 ```bash
 # .env.locol
-NEXT_PUBLIC_API_URL=https://api.example.com
+NEXT_PUBLIC_API_URL=https://fakestoreapi.com
 ```
 
 ```bash
