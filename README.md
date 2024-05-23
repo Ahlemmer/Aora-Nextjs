@@ -2,17 +2,48 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+## <a name="introduction">🤖 Introduction</a>
+
+Built with React Native for seamless user experiences, Animatable for captivating animations, and integrated with the dependable backend systems of Appwrite,
+this app showcases impressive design and functionality, enabling seamless sharing of AI videos within the community.
+
+If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- NextJS
+- TailwindCSS
+- AXIOS
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
+
+```bash
+git clone https://github.com/adrianhajdin/aora.git
+cd aora
+```
+
+**Installation**
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Project**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
